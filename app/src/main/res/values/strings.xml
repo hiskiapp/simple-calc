@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="ic_calc_desc">Icon Calc</string>
+    <string name="input1_title">Input 1</string>
+    <string name="input2_title">Input 2</string>
+    <string name="btn_count_label">Hitung</string>
+    <string name="rb_add_label">Tambah</string>
+    <string name="rb_sub_label">Kurang</string>
+    <string name="rb_mlt_label">Kali</string>
+    <string name="rb_div_label">Bagi</string>
+</resources>
